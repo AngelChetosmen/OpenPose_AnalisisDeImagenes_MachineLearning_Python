@@ -1,3 +1,26 @@
+#Proyecto OPENPOSE
+>[!IMPORTANT]
+Este proyecto fue proporcionado con fines de estudio en la unidad de aprendizaje "Machine Learning" impartida en la Escuela Superior de Cómputo del IPN en la Ciudad de México, México.
+
+>[!CAUTION]
+Este proyecto tiene la intención con fines de estudio. No es con el propósito de producción o de uso comercial, ya que no se cuenta con la licencia perteneciente. Se recomienda investigar los protocolos necesarios para tener los permisos comerciales que sean necesarios. Este repositorio tiene la finalidad de mostrar la aplicación que se hizo en el proyecto usando Open Pose (lenguaje Python).
+
+Este proyecto se usó para determinar la postura correcta de una persona cuando se encuentre sentada, a lo cual, mostramos algunas imágenes de los resultados: 
+![Resultado Ejemplo 1](https://github.com/AngelChetosmen/OpenPose_AnalisisDeImagenes_MachineLearning_Python/blob/main/Imagen1.png)
+![Resultado Ejemplo 2](https://github.com/AngelChetosmen/OpenPose_AnalisisDeImagenes_MachineLearning_Python/blob/main/Imagen2.png)
+
+>[!NOTE]
+Las imágenes que se muestran fueron utilizadas con fines de estudio y de análisis. 
+
+# Licencia
+
+Este proyecto no cuenta con una licencia de [EUVA](LICENSE). Sin embargo, a pesar que no sea aplicable a las políticas de [EUVA](LICENSE) que se pueden consultar en los repositorios disponibles de este perfil, **es importante consultar las licencias correspondientes** para su correcto uso comercial o afines. 
+
+Espero que te sea útil este repositorio. ¡ Hasta pronto :D !
+
+--
+# Project using OpenPose | English version 
+
 # Deep Learning based Human Pose Estimation using OpenCV
 The repository contains code for the blog post [Deep Learning based Human Pose Estimation using OpenCV](https://learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/).
 
